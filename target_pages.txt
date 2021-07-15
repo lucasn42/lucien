@@ -1,0 +1,6 @@
+https://docs.computecanada.ca/wiki/Tutoriel_Apprentissage_machine/en
+https://docs.computecanada.ca/wiki/AI_and_Machine_Learning
+https://docs.computecanada.ca/wiki/TensorFlow
+https://docs.computecanada.ca/wiki/PyTorch
+https://docs.computecanada.ca/wiki/Weights_%26_Biases_(wandb)
+https://docs.computecanada.ca/wiki/Comet.ml
